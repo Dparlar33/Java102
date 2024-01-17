@@ -7,7 +7,9 @@ Topics:
 - Threads
 - I/O
 - JDBC
-  
+- Enum
+- Lambda Expression
+- Stream API
 
 
 
